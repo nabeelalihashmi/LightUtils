@@ -1,0 +1,19 @@
+{
+    "name": "nabeelalihashmi/lightutils",
+    "description": "Lightweight and Useful utilities for PHP",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "IconicCodes\\LightUtils\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Nabeel Ali",
+            "email": "mail2nabeelali@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
